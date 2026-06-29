@@ -1,0 +1,6 @@
+{
+  "name": "Football Live Scores",
+  "description": "A modern, responsive web application for real-time football live scores, standings, top scorers, and tournament grids, featuring gold themes for World Cup and standard dark slate theme for competitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
